@@ -1,0 +1,26 @@
+{
+  "name": "discourse-highlightjs-langs",
+  "private": true,
+  "scripts": {
+    "bundle": "bash bundle.sh",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenZeppelin/discourse-highlightjs-langs.git"
+  },
+  "author": "Francisco Giordano <fg@frang.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenZeppelin/discourse-highlightjs-langs/issues"
+  },
+  "homepage": "https://github.com/OpenZeppelin/discourse-highlightjs-langs#readme",
+  "dependencies": {
+    "esbuild": "^0.15.7",
+    "highlightjs-cairo": "^0.2.0",
+    "highlightjs-solidity": "^2.0.5"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Highlight.js Grammars for Solidity and Cairo",
+  "license_url": "https://github.com/openzeppelin/discourse-highlightjs-langs/blob/master/LICENSE",
+  "component": true
+}
